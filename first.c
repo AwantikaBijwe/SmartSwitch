@@ -2,7 +2,7 @@
 int main() {    
 
     int number1, number2, sum;
-    number1=18;
+    number1=15;
     number2=12;
     
     // calculate the sub
