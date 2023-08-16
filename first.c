@@ -8,7 +8,7 @@ int main() {
     // calculate the sub
     sum = number1 - number2;      
     
-    printf("%d - %d = %d", number1, number2, sum);
+    printf("Sub of two: %d - %d = %d", number1, number2, sum);
     printf("\ndone");
     return 0;
 }
